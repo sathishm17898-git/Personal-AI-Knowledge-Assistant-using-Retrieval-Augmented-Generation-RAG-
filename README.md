@@ -15,7 +15,7 @@ Pipeline Flow:
   
 3.PromptTemplate (LangChain):
 - Formats retrieved context, conversation history, and question into a structured prompt.
-- LLM (Gemini / Hugging Fac)
+- LLM (Gemini / Hugging Face / ChatGPT)
 - Generates an answer based on the prompt.
   
 4.Valuation Harness:
